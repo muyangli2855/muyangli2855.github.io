@@ -100,3 +100,4 @@ linkedin_username: ml2855
 github_username: muyangli2855
 plugins:
   - jekyll-feed
+paginate: 0
