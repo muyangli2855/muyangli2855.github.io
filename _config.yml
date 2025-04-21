@@ -90,3 +90,11 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
+title: Muyang Li
+email: ml2855@cornell.edu
+description: >- 
+  M.Eng. ECE @ Cornell | Backend, Fullstack, Database
+baseurl: ""
+url: "https://muyangli2855.github.io"
+linkedin_username: ml2855
+github_username: muyangli2855
