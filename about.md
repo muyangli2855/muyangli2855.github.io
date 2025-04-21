@@ -6,6 +6,8 @@ permalink: /about.html
 
 {% include header.html %}
 
+# About Me
+
 📞 **Phone**: (607) 697-5055  
 ✉️ **Email**: [ml2855@cornell.edu](mailto:ml2855@cornell.edu)  
 🔗 **LinkedIn**: [linkedin.com/in/ml2855](https://www.linkedin.com/in/ml2855)

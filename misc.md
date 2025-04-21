@@ -6,6 +6,8 @@ permalink: /misc.html
 
 {% include header.html %}
 
+# Misc
+
 ### Hobbies & Fun
 
 - 🎧 Music production with FL Studio  

@@ -6,6 +6,8 @@ permalink: /projects.html
 
 {% include header.html %}
 
+# Projects
+
 ### Personalized Twitch Resources Recommendation Engine
 
 📅 Dec 2023 – Mar 2024

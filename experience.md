@@ -6,6 +6,8 @@ permalink: /experience.html
 
 {% include header.html %}
 
+# Experience
+
 ### Cornell University, Ithaca, NY
 
 **Research Assistant** on *Neural Network Compression, Advisor: Professor Aaron B. Wagner*
