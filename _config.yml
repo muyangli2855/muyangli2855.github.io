@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://muyangli2855.github.io"
 linkedin_username: ml2855
 github_username: muyangli2855
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 paginate: 0
