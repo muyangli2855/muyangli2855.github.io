@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Welcome
+title: Muyang Li
 ---
 
 {% include header.html %}
 
-Hi! I'm Muyang Li, a Master of Engineering student at Cornell.  
-You can view my [Resume](assets/Muyang_Li_Resume.pdf) or learn more about my [Projects](projects.html).
+Hi! I'm Muyang Li, a Master of Engineering student at Cornell University, majoring in Electrical and Computer Engineering. I will graduate in December 2025 and am currently seeking full-time opportunities in software engineering or data engineering. 
+
+You can view my full [Resume](assets/Muyang_Li_Resume.pdf) for details on my experience and projects.
 
