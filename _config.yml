@@ -98,3 +98,5 @@ baseurl: ""
 url: "https://muyangli2855.github.io"
 linkedin_username: ml2855
 github_username: muyangli2855
+plugins:
+  - jekyll-feed
