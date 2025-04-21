@@ -14,3 +14,5 @@ show_excerpts: false
 rss: false
 header_pages:
   - projects.md
+  - about.md
+  - misc.md
