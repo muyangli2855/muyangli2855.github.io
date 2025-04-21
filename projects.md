@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects.html
 ---
 
+{% include header.html %}
+
 ### Personalized Twitch Resources Recommendation Engine
 **Tech Stack**: Java, Spring Boot, MySQL, React, Redis  
 Built full-stack recommendation engine for Twitch with backend caching and multithread optimization.
@@ -19,3 +21,4 @@ Developed compression pipeline achieving 8.81:1 ratio and low distortion.
 ### Cloud Resource Monitoring & Alert System
 **Tech Stack**: Python, Flask, Redis, SMTP  
 Built real-time cloud server monitoring system with alert notifications and RESTful metrics pipeline.
+

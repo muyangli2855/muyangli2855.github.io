@@ -4,6 +4,8 @@ title: About Me
 permalink: /about.html
 ---
 
+{% include header.html %}
+
 ### Academic Background
 
 - M.Eng. in Electrical and Computer Engineering @ Cornell University  
@@ -17,3 +19,4 @@ permalink: /about.html
 
 - Distributed Systems, Full-stack Web Development, Cloud Computing
 - AI-Driven Recommendation Systems, Database Optimization
+
