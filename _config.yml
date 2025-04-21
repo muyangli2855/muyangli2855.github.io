@@ -101,3 +101,7 @@ github_username: muyangli2855
 plugins:
   - jekyll-feed
 paginate: 0
+show_excerpts: false
+rss: false
+header_pages:
+  - projects.md
