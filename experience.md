@@ -8,7 +8,7 @@ permalink: /experience.html
 
 ### Cornell University, Ithaca, NY
 
-**Research Assistant on Neural Network Compression, Advisor: Professor Aaron B. Wagner**
+**Research Assistant** on Neural Network Compression, Advisor: Professor Aaron B. Wagner
 
 **Duration**: Oct 2024 – May 2025
 
@@ -20,12 +20,12 @@ permalink: /experience.html
 
 ### Dalian Cloud Data Technology Co., Ltd, Dalian, China
 
-**Software Engineer Intern on Cloud Resource Monitoring & Alert System**
+**Software Engineer Intern** on Cloud Resource Monitoring & Alert System
 
 **Duration**: Dec 2023 – Mar 2024
 
 **Tech Stack**: Python, Flask, REST API, MySQL, Redis, SMTP, Cloud API, CI/CD
-  
+
 - Developed a cloud monitoring and alert system with a cross-functional team of 5 engineers, tracking 250+ cloud servers by integrating REST APIs & cloud provider APIs for real-time metric analysis, improving system reliability
 - Optimized the alert pipeline with SMTP-based email & SMS notifications, reducing alert delivery time 56% (3.2s to 1.4s) and cutting incident downtime by 45%
 - Reduced server costs by 12% through resource allocation optimization, achieving over $3,000 annual savings
